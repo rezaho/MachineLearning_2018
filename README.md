@@ -1,4 +1,4 @@
-# ML_Project2
+# Machine Learning Project 2
 ## Quality of life in Swiss cities
 In collaboration with **LABORATORY  FOR  HUMAN-ENVIRONMENTRELATIONS IN URBAN SYSTEMS(HERUS)**.
 Under the supervision of **Massaro Emanuele**
