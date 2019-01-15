@@ -3,7 +3,7 @@
 In collaboration with **LABORATORY  FOR  HUMAN-ENVIRONMENTRELATIONS IN URBAN SYSTEMS(HERUS)**.
 Under the supervision of **Massaro Emanuele**
 
-- Link to the final report: [Report.pdf](https://github.com/rezaho/MachineLearning_2018/blob/master/Report_Quality%20of%20life%20in%20Swiss%20Cities.pdf)
+- Link to the final report: [Report.pdf](https://github.com/rezaho/MachineLearning_2018/blob/master/Report_Quality_of_life_in_Swiss_Cities.pdf)
 
 - Link to the **_Run.ipynb_**: [Run.ipynb](https://github.com/rezaho/MachineLearning_2018/blob/master/Run.ipynb)
 
