@@ -3,7 +3,9 @@
 In collaboration with **LABORATORY  FOR  HUMAN-ENVIRONMENTRELATIONS IN URBAN SYSTEMS(HERUS)**.
 Under the supervision of **Massaro Emanuele**
 
-- Link to the data story website :
+- Link to the final report: [Report.pdf](https://github.com/rezaho/MachineLearning_2018/blob/master/Report_Quality%20of%20life%20in%20Swiss%20Cities.pdf)
+
+- Link to the **_Run.ipynb_**: [Run.ipynb](https://github.com/rezaho/MachineLearning_2018/blob/master/Run.ipynb)
 
 # Authors:
 Kouh Kamari Hosseini Seyed Reza
